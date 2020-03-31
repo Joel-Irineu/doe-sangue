@@ -8,7 +8,7 @@ server.use(express.static('public'))
 // habilitar body do formulario
 server.use(express.urlencoded({extended: true}))
 // configuração da template engine
-nunjucks.configure('./', {
+nunjucks.configure('./view', {
     express: server,
     noCache: true,
 })
