@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="doe" title="doe" src="https://user-images.githubusercontent.com/33061906/78070280-e34a0880-7371-11ea-9679-e9709f81f2b6.png" width="250px" />
+    <img alt="doe" title="doe" src="https://user-images.githubusercontent.com/33061906/78624716-b067af00-7860-11ea-9ce2-dcfab995e31d.png" width="250px" />
 </h1>
 
 <h4 align="center">
